@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oyaon&label=Profile%20views&color=0e75b6&style=flat" alt="oyaon" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, React Native**
+- 🌱 I’m currently learning **Python, Machine Learning**
 
-- 💬 Ask me about **Forent End, UI/UX, Web devlopment**
+- 💬 Ask me about **Front End, UI/UX, Web development**
 
 - 📫 How to reach me **oyaon.sultan07@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am so hungry all the time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
