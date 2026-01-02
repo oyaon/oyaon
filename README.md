@@ -1,84 +1,82 @@
-<h1 align="center">Hi 👋, I'm Oyaon</h1>
-<h3 align="center">Frontend Developer | UI-Focused Web Developer</h3>
+# Oyaon Sultan
 
-<p align="center">
-  <a href="mailto:oyaon.sultan07@gmail.com">📧 Email</a> •
-  <a href="https://dribbble.com/">🎨 Dribbble</a> •
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a>
-</p>
+**Junior Software Engineer | Frontend Web Development**
 
----
-
-## 👨‍💻 About Me
-I’m a **frontend developer from Dhaka, Bangladesh**, passionate about building **clean, responsive, and user-friendly web applications**.  
-I enjoy turning designs into real products and continuously improving my development skills.
-
-- 🔭 Currently working on **frontend projects & UI-based applications**
-- 🌱 Learning **Python & Machine Learning**
-- 🎯 Goal: Become a **professional software developer**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, UI/UX**
-- 📫 Reach me at **oyaon.sultan07@gmail.com**
+Dhaka, Bangladesh  
+📧 Email: oyaon.sultan07@gmail.com  
+🌐 Portfolio: https://oyaon.github.io/portfolio/  
+🐙 GitHub: https://github.com/oyaon  
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend**
+## About Me
+
+I am a Computer Science graduate and Junior Software Engineer with a strong
+foundation in frontend web development. I focus on building clean,
+responsive, and user-friendly web applications using modern HTML, CSS,
+and JavaScript.
+
+I enjoy turning designs into functional interfaces, writing structured and
+maintainable code, and continuously improving my software engineering skills
+through hands-on projects.
+
+---
+
+## Technical Skills
+
+### Frontend & Web Development
 - HTML5, CSS3, JavaScript (ES6+)
-- React, Responsive Design
-- UI/UX principles
+- Responsive Design & Cross-Browser Compatibility
+- UI-focused development with accessibility awareness
 
-**Tools & Workflow**
+### Tools & Workflow
 - Git & GitHub
 - VS Code
-- Figma / Design tools
+- Figma (design handoff and UI reference)
 
-**Currently Learning**
-- Python
-- Machine Learning fundamentals
-
----
-
-## 🚀 Featured Projects
-> *(Pin these repositories on your GitHub profile)*
-
-### 📝 Note App
-A simple and clean note-taking application.
-- Tech: HTML, CSS, JavaScript
-- Features: Create, edit, delete notes  
-🔗 **Live Demo:** _(add link)_ • **Repo:** _(add link)_
-
-### ✅ Todo App
-Task management app with a minimal UI.
-- Focus on usability and clean design  
-🔗 **Live Demo:** _(add link)_ • **Repo:** _(add link)_
-
-### 📊 Survey Form
-Responsive survey form project.
-- Practiced form handling & accessibility  
-🔗 **Repo:** _(add link)_
+### Currently Expanding Knowledge
+- Python (basics)
+- Software engineering fundamentals
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyaon&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyaon&theme=tokyonight" alt="GitHub streak" />
-</p>
+### Personal Portfolio Website
+A production-ready personal portfolio website built from scratch.
 
----
+- Developed using semantic HTML, modern CSS, and vanilla JavaScript
+- Implemented smooth scrolling and active navigation state
+- Structured content for clarity, usability, and recruiter readability
+- Deployed live using GitHub Pages
 
-## 🤝 Let’s Connect
-I’m open to:
-- Collaboration on frontend projects
-- Learning opportunities
-- Internships & junior developer roles
-
-📧 **Email:** oyaon.sultan07@gmail.com  
-🌍 **Location:** Dhaka, Bangladesh
+🔗 Live: https://oyaon.github.io/portfolio/  
+🔗 Repository: https://github.com/oyaon/portfolio  
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+### Frontend Practice Projects
+A collection of small frontend projects focused on UI clarity and usability.
+
+- Note-taking application
+- Task management (Todo) application
+- Responsive forms and layouts
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## Career Objective
+
+I am seeking an entry-level or junior software engineering role where I can
+contribute to frontend development, learn from experienced engineers, and
+work on real-world web applications in a collaborative environment.
+
+---
+
+## Contact
+
+📧 Email: oyaon.sultan07@gmail.com  
+📍 Location: Dhaka, Bangladesh  
+
+---
